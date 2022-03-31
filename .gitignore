@@ -119,3 +119,6 @@ dist
 
 # mac ignore
 .DS_Store
+
+# angular cache
+.angular/
